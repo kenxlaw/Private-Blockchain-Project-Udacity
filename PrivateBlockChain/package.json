@@ -1,0 +1,19 @@
+{
+  "name": "privateblockchainproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken",
+  "license": "ISC",
+  "description": "A project to make a private blockchain using resources provided by Udacity",
+  "repository": {
+    "type": "git",
+    "url": "kenxlaw"
+  },
+  "keywords": [
+    "blockchain",
+    "hash"
+  ]
+}
