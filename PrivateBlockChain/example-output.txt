@@ -1,0 +1,24 @@
+> blockchain.chain
+[
+  Block {
+    hash: 'db686e35f2e89b29d5fec5e3fa8a8bf2c065fc3fce0b1052db3bda24573c8dcc',
+    height: 0,
+    body: 'First block in the chain - Genesis block',
+    time: '775',
+    previousBlockHash: ''
+  },
+  Block {
+    hash: '5dfc2ae1d8640cee83737d7dc7a4343909003f12d4038b3a1b21a1b406041e32',
+    height: 1,
+    body: 'Test',
+    time: '766',
+    previousBlockHash: 'db686e35f2e89b29d5fec5e3fa8a8bf2c065fc3fce0b1052db3bda24573c8dcc'
+  },
+  Block {
+    hash: '8f436be346cd3773f440a2043ee1e846bb5fee2bd084c187b42894e8afef3aa3',
+    height: 2,
+    body: 'Test 2',
+    time: '646',
+    previousBlockHash: '5dfc2ae1d8640cee83737d7dc7a4343909003f12d4038b3a1b21a1b406041e32'
+  }
+]
