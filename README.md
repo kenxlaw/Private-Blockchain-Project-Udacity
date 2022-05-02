@@ -1,9 +1,14 @@
 # Private-Blockchain-Project
-A personal project to create my own Blockchain using resources from Udacity.
+Created a simple blockchain using resources from Udacity.
 
-Able to create, store and link Blocks with height and timestamp included.
+Able to create, store and link blocks with height and timestamp included. Hashed using SHA256.
 
-Using
+<p align="center">
+    <img src="PrivateBlockChain/Images/Terminal.png" width="600"/>
+</p>
 
--node.js 
--crypto.js.
+
+## Technologies
+
+- node.js 
+- crypto.js.
